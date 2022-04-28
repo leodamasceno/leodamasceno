@@ -13,7 +13,7 @@
     - Ruby (Backend: API, Crawler and Slack integration)
     - MySQL
     - Docker/Kubernetes
-- [Dividend Finder](https://github.com/leodamasceno/ping2me): Application to help investors to pick the most reliable market stocks
+- [Dividend Finder](https://dividends.damasceno.io): Application to help investors to pick the most reliable market stocks
   - Developed using:
     - HTML, JavaScript, Ajax (Frontend)
     - Python (Backend)
