@@ -9,13 +9,13 @@
 💻 Here are some of the personal projects I've created/worked on:
 - [ping2me](https://github.com/leodamasceno/ping2me): Real-time monitoring tool
   - Developed using:
-    - HTML, JavaScript, Ajax (Frontend)
+    - HTML, JavaScript/jQuery, Ajax (Frontend)
     - Ruby (Backend: API, Crawler and Slack integration)
     - MySQL
     - Docker/Kubernetes
 - [Dividend Finder](https://dividends.damasceno.io): Application to help investors to pick the most reliable market stocks
   - Developed using:
-    - HTML, JavaScript, Ajax (Frontend)
+    - HTML, JavaScript/jQuery, Ajax (Frontend)
     - Python (Backend)
     - Yahoo Finance API
     - Docker/Kubernetes
