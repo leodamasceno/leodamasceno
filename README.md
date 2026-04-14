@@ -1,12 +1,17 @@
 👋 Hi, I’m Leonardo (@leodamasceno), welcome to my github page
 
-💼 Senior DevOps Engineer @ Gartner (Remotely). More info [here](https://www.linkedin.com/in/leonardo-damasceno-27162525/)
+💼 Lead DevOps Engineer @ Loka (Remotely). More info [here](https://www.linkedin.com/in/leonardo-damasceno-27162525/)
 
 🏠 From Brazil but currently living in Barcelona/Spain
 
 👀 I’m interested in DevOps, Automation and Stock market
 
 💻 Here are some of the personal projects I've created/worked on:
+- [news-scraper](https://github.com/leodamasceno/news-scraper): A simple Python application that reads the news via CLI
+  - Developed using:
+    - Python
+    - GitHub Copilot
+    - VSCode
 - [ping2me](https://github.com/leodamasceno/ping2me): Real-time monitoring tool
   - Developed using:
     - HTML, JavaScript/jQuery, Ajax (Frontend)
