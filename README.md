@@ -7,6 +7,13 @@
 👀 I’m interested in DevOps, Automation and Stock market
 
 💻 Here are some of the personal projects I've created/worked on:
+- [kubeweb](https://github.com/leodamasceno/kubeweb): A lightweight, local web-based Kubernetes management interface
+  - Developed using:
+    - HTML
+    - NodeJS
+    - GitHub Copilot
+    - VSCode
+    - Docker/Kubernetes
 - [news-scraper](https://github.com/leodamasceno/news-scraper): A simple Python application that reads the news via CLI
   - Developed using:
     - Python
